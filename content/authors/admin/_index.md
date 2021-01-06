@@ -1,7 +1,7 @@
 ---
 title: Thanh-Tuyen Nguyen-Tran
 role: ""
-avatar_filename: profile_photo_round.png
+avatar_filename: avatar.png
 bio: ""
 interests:
   - Neuroscience
