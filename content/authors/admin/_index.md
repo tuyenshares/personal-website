@@ -14,30 +14,32 @@ social:
     link: /#contact
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/tuyenshares
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: "#"
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/tuyenshares
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
-organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+    link: https://www.linkedin.com/in/nguyentranthanhtuyen/
+organizations: []
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
+    - course: Masters in Neuroscience
+      institution: King's College London
+      year: 2022
+    - course: Admitted to the Paris Bar
+      institution: Ecole de Formation professionnelle des Barreaux de la cour d'appel
+        de Paris
+      year: 2010
+    - course: Masters in Banking, Financial and Securities Law
+      institution: University of Paris II Assas
       year: 2008
+    - course: Masters in Corporate and Business Law
+      institution: University of Paris II Assas
+      year: 2007
 email: ""
 superuser: true
 highlight_name: false
