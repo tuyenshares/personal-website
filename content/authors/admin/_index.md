@@ -1,6 +1,7 @@
 ---
 title: Thanh-Tuyen Nguyen-Tran
-role: ""
+role: I am interesting in understanding why we do things we do and how to
+  improve our life.
 avatar_filename: avatar.png
 bio: ""
 interests:
