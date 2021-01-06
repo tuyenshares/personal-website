@@ -24,7 +24,7 @@ date_format: Jan 2006
 experience:
   - title: In-house Corporate Lawyer
     company: Generix Group
-    company_url: https://www.generixgroup.com/en
+    company_url: 
     location: Paris
     date_start: '2015-01-01'
     date_end: '2016-12-31'
