@@ -1,7 +1,7 @@
 ---
 title: Thanh-Tuyen Nguyen-Tran
 role: ""
-avatar_filename: untitled-design-21-.png
+avatar_filename: profile_photo_round.png
 bio: ""
 interests:
   - Neuroscience
@@ -45,6 +45,8 @@ superuser: true
 highlight_name: false
 ---
 A corporate lawyer turned student of neuroscience and currently learning data science. 
+
+I am interested in using data to power meaningful impacts. 
 
 I am also facilitating mindfulness workhops here.
 
