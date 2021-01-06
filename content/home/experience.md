@@ -24,7 +24,7 @@ date_format: Jan 2006
 experience:
   - title: In-house Corporate Lawyer
     company: Generix Group
-    company_url: 'https://www.generixgroup.com/en'
+    company_url: https://www.generixgroup.com/en
     location: Paris
     date_start: '2015-01-01'
     date_end: '2016-12-31'
@@ -44,7 +44,6 @@ experience:
     location: Paris
     date_start: '2012-01-01'
     date_end: '2015-12-31'
-    description: |2
-    Taught corporate law (creation, structuration, organisational development, and mergers & acquisitions)
+    description: Taught corporate law (creation, structuration, organisational development, and mergers & acquisitions)
     Level taught: Masters
 ---
