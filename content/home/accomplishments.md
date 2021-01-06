@@ -23,28 +23,28 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: https://www.coursera.org
+- certificate_url: https://www.codecademy.com/profiles/ThanhTuyen/certificates/5cafb2d937090210d7df3652
   date_end: ""
-  date_start: "2018-10-01"
+  date_start: "2020-11-01"
   description: ""
-  organization: Coursera
-  organization_url: https://www.coursera.org
-  title: Neural Networks and Deep Learning
+  organization: Codecademy
+  organization_url: https://www.codecademy.com/
+  title: Analyzing data with SQL
+  url: https://www.codecademy.com/learn/paths/analyze-data-with-sql
+- certificate_url: https://www.udemy.com/certificate/UC-e7356e20-54bd-4329-b4b3-d463e60a6cd0/
+  date_end: ""
+  date_start: "2020-12-01"
+  description: ""
+  organization: Udemy
+  organization_url: https://www.udemy.com/
+  title: Statistics for data science
   url: ""
-- certificate_url: https://www.edx.org
+- certificate_url: 
   date_end: ""
-  date_start: "2018-03-01"
-  description: Formulated informed blockchain models, hypotheses, and use cases.
-  organization: edX
-  organization_url: https://www.edx.org
-  title: Blockchain Fundamentals
-  url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-- certificate_url: https://www.datacamp.com
-  date_end: "2017-12-21"
-  date_start: "2017-07-01"
+  date_start: "2019-09-01"
   description: ""
-  organization: DataCamp
-  organization_url: https://www.datacamp.com
-  title: 'Object-Oriented Programming in R: S3 and R6 Course'
+  organization: Singapore Management University & UC San Diego School of Medecine
+  organization_url: https://www.smu.edu.sg/programme/pce/161056-mindfulness-based-stress-reduction-teacher-training-intensive-mbsr-tti
+  title: Mindfulness-Based Stress Reduction Teacher Training 
   url: ""
 ---
