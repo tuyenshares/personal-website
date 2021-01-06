@@ -2,12 +2,12 @@
 title: Thanh-Tuyen Nguyen-Tran
 role: ""
 avatar_filename: untitled-design-21-.png
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: ""
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Neuroscience
+  - Behavioural Economics
+  - Data
+  - Mindfulness
 social:
   - icon: envelope
     icon_pack: fas
