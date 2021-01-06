@@ -10,7 +10,7 @@ headless: true
 weight: 50
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-title: 'Accomplish&shy;ments'
+title: 'Certifications'
 subtitle:
 
 # Date format
@@ -29,7 +29,7 @@ item:
   description: ""
   organization: Codecademy
   organization_url: https://www.codecademy.com/
-  title: Analyzing data with SQL
+  title: 'Analyzing data with SQL'
   url: https://www.codecademy.com/learn/paths/analyze-data-with-sql
 - certificate_url: https://www.udemy.com/certificate/UC-e7356e20-54bd-4329-b4b3-d463e60a6cd0/
   date_end: ""
@@ -37,7 +37,7 @@ item:
   description: ""
   organization: Udemy
   organization_url: https://www.udemy.com/
-  title: Statistics for data science
+  title: 'Statistics for data science'
   url: ""
 - certificate_url: 
   date_end: ""
@@ -45,6 +45,6 @@ item:
   description: ""
   organization: Singapore Management University & UC San Diego School of Medecine
   organization_url: https://www.smu.edu.sg/programme/pce/161056-mindfulness-based-stress-reduction-teacher-training-intensive-mbsr-tti
-  title: Mindfulness-Based Stress Reduction Teacher Training 
+  title: 'Mindfulness-Based Stress Reduction Teacher Training' 
   url: ""
 ---
