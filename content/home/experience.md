@@ -22,7 +22,7 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: In-house corporate lawyer
+  - title: In-house Corporate Lawyer
     company: Generix Group
     company_url: 'https://www.generixgroup.com/en'
     location: Paris
@@ -30,8 +30,8 @@ experience:
     date_end: '2016-12-31'
     description: 
     
-  - title: Business and corporate lawyer
-    company: 
+  - title: Business and Corporate Lawyer
+    company: Paris Bar
     company_url: 
     location: Paris
     date_start: '2010-01-01'
