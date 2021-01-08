@@ -5,18 +5,18 @@
 
 [[main]]
   name = "Home"
-  url = "#about"
+  url = "/main"
   weight = 10
 
 [[main]]
-  name = "Posts"
-  url = "#posts"
+  name = "About"
+  url = "/home"
   weight = 20
 
-#[[main]]
-#  name = "Projects"
-#  url = "#projects"
-#  weight = 30
+[[main]]
+  name = "Portfolio"
+  url = "https://tuyenshares.github.io/"
+  weight = 30
 
 #[[main]]
 #  name = "Talks"
@@ -28,10 +28,10 @@
 #  url = "#featured"
 #  weight = 50
 
-[[main]]
-  name = "Contact"
-  url = "#contact"
-  weight = 60
+#[[main]]
+# name = "Contact"
+# url = "#contact"
+# weight = 60
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/media/resume.pdf` and uncomment the lines below.
