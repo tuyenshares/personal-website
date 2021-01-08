@@ -5,12 +5,12 @@
 
 [[main]]
   name = "Home"
-  url = "/main"
+  url = "main/"
   weight = 10
 
 [[main]]
   name = "About"
-  url = "/home"
+  url = "home/"
   weight = 20
 
 [[main]]
