@@ -13,10 +13,10 @@
   url = "blog/"
   weight = 20
 
-[[main]]
-  name = "Portfolio"
-  url = "https://tuyenshares.github.io/"
-  weight = 30
+#[[main]]
+  #name = "Portfolio"
+  #url = "https://tuyenshares.github.io/"
+ # weight = 30
 
 #[[main]]
 #  name = "Talks"
