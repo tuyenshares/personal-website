@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 30
 
-title: Articles
+title: 
 subtitle: ' ' 
 
 content:
@@ -40,7 +40,7 @@ content:
   - name: Nurturing the next generation
     tag: Parenting and education
   - name: Data explorations
-    tag: Learning data
+    categorie: Demo
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
