@@ -25,8 +25,8 @@ content:
   # To filter by a specific tag, set `tag` to an existing tag name.
   # To remove the toolbar, delete the entire `filter_button` block.
   filter_button:
-  - name: All
-    tag: '*'
+  - name: Favorites
+    tag: Favorites
   - name: Our human nature
     tag: Decision-making and behavioural science
   - name: Amazing brain
@@ -40,7 +40,9 @@ content:
   - name: Nurturing the next generation
     tag: Parenting and education
   - name: Data explorations
-    categorie: Demo
+    tag: Data
+  - name: Some nerdy stuff
+    tag: Tech
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
