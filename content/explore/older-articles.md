@@ -29,4 +29,4 @@ design:
 ---
 
 
-[See all articles here](https://tuyenshares.netlify.app/post/)
+[See all articles here](/post)
