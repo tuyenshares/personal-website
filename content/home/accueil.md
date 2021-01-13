@@ -12,7 +12,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 10
 
-title: 
+title: Welcome
 subtitle: 
 
 design:
@@ -28,7 +28,6 @@ design:
     padding: ["20px", "0", "20px", "0"]
 ---
 
-**Welcome**
 
 This place is aimed to be an open knowledge platform where I share with you all the insights I learned from my current studies in applied neuroscience and also from independent research based on my diverse personal interests. 
 
