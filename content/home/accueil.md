@@ -47,7 +47,7 @@ Technically, digital gardens often involve non-linear web design and bi-directio
 This is often mentioned  along with an other system that I've also recently experimented for organising my research projects, [the Zettelkasten method](#). 
 
 But as this article mentioned, even though there are some technical guidelines, digital gardens don't really follow rules  and I think this is the beauty of it. I believe there is still space for some creativity in the form they can take. 
-(By the way, even though I am interested in geeky stuff, I still want to improve these bi-directional links on this website. So if you have a (very) comprehensive guide, please let me know, I would be glad to check it out. In the meantime, I built this space with the Academic theme for Hugo where updates can be seen on the top of the article and backlinks at the end of the page.)
+_(By the way, I still want to improve these bi-directional links on this website. So if you have a good guide for me to experiment some new designs, please let me know, I would be glad to check it out. In the meantime, I built this space where updates can be seen on the top of the article, backlinks at the end of the page and alerts have been set up wherever work is still in progress and.)_
 
 Whereas the Zettlekasten method is private and for some, a "second brain", the digital garden is a public repository of notes that aimed to be shared. 
 
