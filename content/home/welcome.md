@@ -12,7 +12,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 10
 
-title: Welcome
+title: Her digital garden 🌱
 subtitle: 
 
 design:
