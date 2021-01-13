@@ -12,7 +12,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 20
 
-title: 
+title: Her digital garden 🌱
 subtitle: 
 
 design:
@@ -29,11 +29,11 @@ design:
 ---
 
 
-I recently came across this concept of [digital garden](https://www.technologyreview.com/2020/09/03/1007716/digital-gardens-let-you-cultivate-your-own-little-bit-of-the-internet/) that has been [burgeoning on the web since 2020](https://github.com/MaggieAppleton/digital-gardeners). Rethinking the traditional way of blogging, digital gardens seems to invite for a more creative, contemplative and quiet way of sharing on the Internet, which resonates with me quite instantly. 
+I recently came across this concept of [digital garden](https://www.technologyreview.com/2020/09/03/1007716/digital-gardens-let-you-cultivate-your-own-little-bit-of-the-internet/) that has been [burgeoning on the web since 2020](https://github.com/MaggieAppleton/digital-gardeners) and instantly appealing to me. Rethinking the traditional way of blogging, digital gardens seems to invite for a more creative, contemplative and quiet way of sharing on the Internet. 
 
 2020 - this year where a lot have been questioned and disrupted - has forced the majority of us to reshape our life...  I feel that this trend of digital garden follows the same movement towards slowing down and reframing our priorities. This is in direct contrast with the current use of a vast part of blogs on the web, focusing solely on the audience. By essence, digital gardens are more inward-oriented and are a call for more [vulnerability](#) when sharing publicly. 
 
-It is all about the process. 
+It is all about the process, patience and timely growth. 
 
 That reminds me the start of blogging when it was more about sharing personal thoughts than the end of result for professional content marketing. 
 
