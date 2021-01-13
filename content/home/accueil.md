@@ -41,7 +41,7 @@ Digital gardens are basically a collection of notes that can be published at var
 
 Gardens imply some dirt and mess - except the "jardins à la française" but they are exceptions. Digital gardens are not neat blogs where everything is ordered but a more open way of thinking and sharing our interests that are growing and blooming with time.
 
-Perfectionism is my everyday battle and personally, this  a good way to force me to practice letting go and publish my thoughts even though there are not completely fully formed. 
+The question of imperfection is an everyday challenge and personally, this a good way to force me to practice letting go and publish my thoughts even though there are not completely fully formed. 
 
 Technically, digital gardens often involve non-linear web design and bi-directional links that connect the articles between them, creating an interrelated network of notes, conducting one idea to another, allowing connections, comparisons and contradiction. 
 This is often mentioned  along with an other system that I've also recently experimented for organising my research projects, [the Zettelkasten method](#). 
