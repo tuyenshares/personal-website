@@ -42,7 +42,7 @@ content:
   - name: Data explorations
     tag: Learning data
   - name: Some geeky stuff
-    tag: Academic
+    tag: 'Academic'
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
@@ -53,7 +53,7 @@ design:
   #   2 = Compact
   #   3 = Card
   #   5 = Showcase
-  view: 5
+  view: 2
 
   # For Showcase view, flip alternate rows?
   flip_alt_rows: true
