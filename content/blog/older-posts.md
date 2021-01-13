@@ -8,8 +8,8 @@ subtitle: ""
 active: true
 content:
   page_type: post
-  count: 
-  offset: 
+  count: 0
+  offset: 0
   order: desc
   filters:
     tag: ""
