@@ -20,10 +20,10 @@ design:
   background:
     image: 
     image_darken: 
-    image_parallax: true
-    image_position: center
-    image_size: cover
-    text_color_light: true
+    image_parallax: 
+    image_position: 
+    image_size: 
+    text_color_light: false
   spacing:
     padding: ["20px", "0", "20px", "0"]
 ---
