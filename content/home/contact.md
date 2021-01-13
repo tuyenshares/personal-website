@@ -18,7 +18,7 @@ content:
   
   # Email form provider
   form:
-    provider: netlify
+    provider: 
     formspree:
       id:
     netlify:
@@ -26,5 +26,5 @@ content:
       captcha: false
   
 design:
-  columns: '2'
+  columns: '1'
 ---
