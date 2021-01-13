@@ -10,7 +10,7 @@ active: true
 headless: true
 
 # Order that this section appears on the page.
-weight: 20
+weight: 30
 
 title: 
 subtitle: 
@@ -29,4 +29,4 @@ design:
 ---
 
 
-[See all articles](https://tuyenshares.netlify.app/post/)
+[See all articles here](https://tuyenshares.netlify.app/post/)
