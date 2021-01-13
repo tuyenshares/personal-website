@@ -7,7 +7,7 @@ widget: portfolio
 headless: true
 
 # Order that this section appears on the page.
-weight: 65
+weight: 30
 
 title: Articles
 subtitle: ' ' 
@@ -38,11 +38,9 @@ content:
   - name: Lifelong learning strategies
     tag: Learning how to learn
   - name: Nurturing the next generation
-    tag: parenting and education
+    tag: Parenting and education
   - name: Data explorations
     tag: Learning data
-  - name: Some geeky stuff
-    tag: 'Academic'
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
