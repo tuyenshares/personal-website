@@ -10,7 +10,7 @@ headless: true
 weight: 130
 
 title: Contact
-subtitle:
+subtitle: 
 
 content:
   # Automatically link email and phone or display as text?
@@ -26,5 +26,5 @@ content:
       captcha: false
   
 design:
-  columns: '1'
+  columns: '2'
 ---
