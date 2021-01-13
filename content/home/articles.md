@@ -9,8 +9,8 @@ headless: true
 # Order that this section appears on the page.
 weight: 65
 
-title: ' '
-subtitle: ''
+title: Posts
+subtitle: ' ' 
 
 content:
   # Page type to display. E.g. project.
@@ -27,21 +27,33 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Deep Learning
-    tag: Deep Learning
-  - name: Other
-    tag: Demo
+  - name: Our human nature
+    tag: Decision-making and behavioural science
+  - name: Amazing brain
+    tag: Neuroscience
+  - name: Meaningful productivity
+    tag: Productivity
+  - name: Mental wellness and stress management
+    tag: Mental health
+  - name: Lifelong learning strategies
+    tag: Learning how to learn
+  - name: Nurturing the next generation
+    tag: parenting and education
+  - name: Data explorations
+    tag: Learning data
+  - name: Some geeky stuff
+    tag: Tech
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
-  columns: '2'
+  columns: '1'
 
   # Toggle between the various page layout types.
   #   1 = List
   #   2 = Compact
   #   3 = Card
   #   5 = Showcase
-  view: 2
+  view: 1
 
   # For Showcase view, flip alternate rows?
   flip_alt_rows: false
