@@ -46,17 +46,17 @@ The question of imperfection is an everyday challenge and personally, this a goo
 Technically, digital gardens often involve non-linear web design and bi-directional links that connect the articles between them, creating an interrelated network of notes, conducting one idea to another, allowing connections, comparisons and contradiction. 
 This is often mentioned  along with an other system that I've also recently experimented for organising my research projects, [the Zettelkasten method](#). 
 
-But as this article mentioned, even though there are some technical guidelines, digital gardens don't really follow rules  and I think this is the beauty of it. I believe there is still space for some creativity in the form they can take. 
+Even though there are some technical guidelines, digital gardens don't really follow rules or conventions. There is space left for creativity and I think this is what makes the beauty of it. 
 _(By the way, I still want to improve these bi-directional links on this website. So if you have a good guide for me to experiment some new designs, please let me know, I would be glad to check it out. In the meantime, I built this space where updates can be seen on the top of the article, backlinks at the end of the page and alerts have been set up wherever work is still in progress and.)_
 
-Whereas the Zettlekasten method is private and for some, a "second brain", the digital garden is a public repository of notes that aimed to be shared. 
+While the Zettlekasten method is private and for some, a "second brain", the digital garden is a public repository of notes that aimed to be shared. 
 
 I've come to the idea of public learning quite recently. After pushing myself forward and going against my fear of being judged, I decided to give it a try. Learning in public has been said to be a way for better learning by seeking feedbacks. It is also a way to measure how far we are in the process of expertise of a subject. 
 
 
-The way I see it, this space is a blog but with more freedom where I share my thoughts across diverse fields that caught my interest. It is also, without being exhaustive, a portfolio for my projects, especially in data analytics, a digital notebook for my reading notes, a collection of advices and wisdom I want to keep about living consciously, a repository for academic papers reviews and independent research writings. 
+The way I see it, this space is a blog but with more freedom where I share my thoughts across diverse fields that caught my interest. It is also (without being exhaustive) a portfolio for my projects, especially in data analytics, a digital notebook for my reading notes, a collection of advices and wisdom I want to keep about living consciously, a repository for academic papers reviews and independent research writings. 
 
-I am not sure I have fully understood the whole concept but I like this idea of planting seeds of ideas, sharing what we are trying to nurture and attend to them publicly with the hope they can grow and blossom. 
+I am not sure I have fully understood the whole concept but I like this digital garden-based approach of planting seeds of ideas, sharing what we are trying to nurture and tend to them publicly with the hope they can grow and blossom. 
 
 I'm very excited and I hope you will enjoy the journey with me. You can [start exploring here](https://tuyenshares.netlify.app/explore/).
 
