@@ -10,7 +10,7 @@
 
 [[main]]
   name = "Start exploring"
-  url = "blog/"
+  url = "explore/"
   weight = 20
 
 [[main]]
