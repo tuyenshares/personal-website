@@ -1,32 +1,60 @@
 ---
-widget: pages
-widget_id: Recent-posts
+# An instance of the Portfolio widget.
+# Documentation: https://wowchemy.com/docs/page-builder/
+widget: portfolio
+
+# This file represents a page section.
 headless: true
+
+# Order that this section appears on the page.
 weight: 30
-title: ""
-subtitle: ""
-active: true
+
+title: 
+subtitle: ' ' 
+
 content:
+  # Page type to display. E.g. project.
   page_type: post
-  count: 1
-  offset: 0
-  order: desc
-  filters:
-    tag: ""
-    category: ""
-    publication_type: ""
-    author: ""
-    exclude_featured: false
-  archive:
-    enable: false
+
+  # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
+  filter_default: 0
+
+  # Filter toolbar (optional).
+  # Add or remove as many filters (`filter_button` instances) as you like.
+  # To show all items, set `tag` to "*".
+  # To filter by a specific tag, set `tag` to an existing tag name.
+  # To remove the toolbar, delete the entire `filter_button` block.
+  filter_button:
+  - name: Favorites
+    tag: Favorites
+  - name: Our human nature
+    tag: Decision-making and behavioural science
+  - name: Amazing brain
+    tag: Neuroscience
+  - name: Meaningful productivity
+    tag: Productivity
+  - name: Mental wellness and stress management
+    tag: Mental health
+  - name: Lifelong learning strategies
+    tag: Learning how to learn
+  - name: Nurturing the next generation
+    tag: Parenting and education
+  - name: Data explorations
+    tag: Data
+  - name: Some nerdy stuff
+    tag: Tech
+
 design:
-  columns: "1"
-  view: 3
-  background: {}
-  spacing:
-    padding:
-      - 1.9rem
-      - "0"
-      - 1.9rem
-      - "0"
+  # Choose how many columns the section has. Valid values: '1' or '2'.
+  columns: '1'
+
+  # Toggle between the various page layout types.
+  #   1 = List
+  #   2 = Compact
+  #   3 = Card
+  #   5 = Showcase
+  view: 2
+
+  # For Showcase view, flip alternate rows?
+  flip_alt_rows: true
 ---
