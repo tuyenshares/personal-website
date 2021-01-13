@@ -19,7 +19,7 @@ content:
     exclude_featured: false
   archive:
     enable: true
-    text: See all blog posts
+    text: See all articles
     link: post/
 design:
   columns: "1"
