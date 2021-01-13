@@ -29,6 +29,8 @@ design:
 ---
 
 
+
+
 This place is aimed to be an open knowledge platform where I share with you all the insights I learned from my current studies in applied neuroscience and also from independent research based on my diverse personal interests. 
 
 I believe that knowledge is not a static but dynamic and changes when shared and discussed. 
