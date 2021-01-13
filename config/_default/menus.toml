@@ -9,14 +9,14 @@
   weight = 10
 
 [[main]]
-  name = "Blog"
-  url = "blog/"
+  name = "About"
+  url = "about/"
   weight = 20
 
-#[[main]]
-  #name = "Portfolio"
-  #url = "https://tuyenshares.github.io/"
- # weight = 30
+[[main]]
+  name = "Blog"
+  url = "blog/"
+  weight = 30
 
 #[[main]]
 #  name = "Talks"
