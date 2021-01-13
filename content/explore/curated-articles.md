@@ -7,7 +7,7 @@ widget: portfolio
 headless: true
 
 # Order that this section appears on the page.
-weight: 30
+weight: 20
 
 title: 
 subtitle: ' ' 
@@ -25,7 +25,7 @@ content:
   # To filter by a specific tag, set `tag` to an existing tag name.
   # To remove the toolbar, delete the entire `filter_button` block.
   filter_button:
-  - name: Best
+  - name: Best of
     tag: Favorites
   - name: Our human nature
     tag: Decision-making and behavioural science
