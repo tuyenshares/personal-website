@@ -28,9 +28,9 @@ design:
     padding: ["20px", "0", "20px", "0"]
 ---
 
-Its purpose is to reply to this familiar question: What are you doing now? 🙂
+Its purpose is to reply to this familiar question: What are you doing these days? 🙂
 
-_Updated on January 2021_
+_Updated on January 2021 in Singapore_
 
 
 So, NOW, 
