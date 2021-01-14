@@ -1,7 +1,7 @@
 ---
 title: "What are digital gardens? "
 date: 2021-01-14T04:00:54.189Z
-draft: true
+draft: false
 featured: false
 tags:
   - Tech
