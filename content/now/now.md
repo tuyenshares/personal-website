@@ -28,28 +28,29 @@ design:
     padding: ["20px", "0", "20px", "0"]
 ---
 
-Its purpose is to reply to this familiar question: What are you doing now?
-
-So, NOW, 
+Its purpose is to reply to this familiar question: What are you doing now? 🙂
 
 _Updated on January 2021_
 
-**I am interested**
 
-- in reading more about behavioural economics (Any recommendation...?)
+So, NOW, 
 
-**I am learning**
+**I am interested in...**
+
+- Reading more about behavioural economics (Any recommendation...?)
+
+**I am learning...**
 
 - A new module for my Masters in applied neuroscience
 - Python
 - [Maths for machine learning](https://www.coursera.org/learn/linear-algebra-machine-learning)
 
-**I am building**
+**I am building...**
 
 - This [little piece of digital garden](/explore) seeds by seeds
 - Some [dashboards](https://tuyenshares.github.io/) for my training on data analysis
 
-**I am reading**
+**I am reading...**
 
 - Rereading Man's searching for meaning 
 - [The righteous mind](https://www.goodreads.com/book/show/11324722-the-righteous-mind) from Jonathan Haidt
