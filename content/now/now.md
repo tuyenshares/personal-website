@@ -37,7 +37,7 @@ So, NOW,
 
 **I am interested in...**
 
-- Reading more about behavioural economics (Any recommendation...?)
+- Reading more about organisation behaviours (Any recommendation...?)
 
 **I am learning...**
 
