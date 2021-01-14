@@ -48,7 +48,7 @@ highlight_name: false
 ---
 A former corporate lawyer turned student of applied neuroscience, I am passionate about research on cognitive science and behavioural economics. My field of interest includes particularly studies about the relationships between these topics and mindfulness practices.  
 
-I am also curious about data analytics and data science and is currently self-teaching Python and R. 
+I am also curious about data analytics and data science and am currently teaching myself Python and R. 
 
 In my spare time, I enjoy being in nature, walking and running and be inspired by art in museums and galleries. I am also conducting mindfulness workshops [here](https://prosoke.com/).
 
