@@ -37,10 +37,10 @@ It is at the same time:
 - a collection of advices and wisdom I want to keep about living consciously, 
 - a repository for paper reviews and independent research. 
 
-You may encounter some articles that are not fully finished yet or haven't even been started to be written in any other form that bullet points. They are seeds that I'm planting with the hope they will bloom.  
+You may encounter some articles that are not fully finished yet or haven't even been started to be written in any other form that bullet points. They are seeds that I'm planting with the hope they will bloom one day. Or they might just not grow, and it is ok. 
 
-(Digital) gardens celebrate the prower of work, process, patience and timely growth. They are invite for a more creative, contemplative and quiet way of sharing on the Internet. It is what makes the beauty of it for me. 
+(Digital) gardens celebrate the prower of work, process, patience and timely growth. They are invites for a more creative, contemplative and quiet way of sharing on the Internet. It is what makes the beauty of it for me. 
 
-I'm very excited and I've started to plant some seeds [here](/explore). I hope you will enjoy the journey with me.
+I'm very excited to get started! [Here](/explore) are some seeds I've planted. I hope you will enjoy the journey with me.
 
 Also, I see this garden as a part of a bigger community garden where people is welcome to come, so please feel free to [contact me](#contact) for any feedback, question, suggestion... so that we can tend to our gardens together. 
