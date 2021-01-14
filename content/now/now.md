@@ -28,27 +28,39 @@ design:
     padding: ["20px", "0", "20px", "0"]
 ---
 
+
 _Updated on January 2021_
 
 
-** What I am learning **
+**What I am learning**
 
-- A new module for my Master in applied neuroscience
 - Python
 - [Maths for machine learning](https://www.coursera.org/learn/linear-algebra-machine-learning)
 
-** What I am building **
+**What I am building**
 
 - This [little piece of digital garden](/explore) seeds by seeds
 - Some [dashboards](https://tuyenshares.github.io/) for my training on data analysis
 
-** What I am reading **
+**What I am reading**
 
-[The righteous mind](https://www.goodreads.com/book/show/11324722-the-righteous-mind) from Jonathan Haidt
+- Rereading Man's searching for meaning 
+- [The righteous mind](https://www.goodreads.com/book/show/11324722-the-righteous-mind) from Jonathan Haidt
 
-Next would probably be : [Science fictions](https://www.goodreads.com/book/show/52199285-science-fictions) from Stuart Ritchie
+Next would probably be : 
+
+- Fiction: A Balzac (to give him another chance... Any recommendation?)
+- Non-Fiction: [Science fictions](https://www.goodreads.com/book/show/52199285-science-fictions) from Stuart Ritchie
+
+
+**Also,I am trying...**
+
+- To read more about behavioural economics 
+- To rebuild a momemtum for running
+- To meditate more 
+
 
 ---
 
 
-(I found this now page on some cool websites and [this is where the idea comes from]https://nownownow.com/about)).
+(I found this now page on some cool websites and [this is where the idea comes from](https://nownownow.com/about)).
