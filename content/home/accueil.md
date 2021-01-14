@@ -13,7 +13,7 @@ headless: true
 weight: 20
 
 title: her digital garden 🌱
-subtitle: 
+subtitle: test
 
 design:
   columns: "1"
