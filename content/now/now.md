@@ -32,9 +32,13 @@ So, NOW,
 
 _Updated on January 2021_
 
+**I am interested**
+
+- in reading more about behavioural economics (Any recommendation...?)
 
 **I am learning**
 
+- A new module for my Masters in applied neuroscience
 - Python
 - [Maths for machine learning](https://www.coursera.org/learn/linear-algebra-machine-learning)
 
@@ -50,15 +54,14 @@ _Updated on January 2021_
 
 Next would probably be : 
 
-- Fiction: A Balzac (to give him another chance... Any recommendation?)
+- Fiction: A Balzac (to give him another chance...)
 - Non-Fiction: [Science fictions](https://www.goodreads.com/book/show/52199285-science-fictions) from Stuart Ritchie
 
 
 **Also, I am trying...**
 
-- To read more about behavioural economics 
 - To rebuild a momemtum for running
-- To meditate more 
+- To meditate more than 45 minutes per day
 
 
 ---
