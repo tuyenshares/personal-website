@@ -13,7 +13,7 @@ headless: true
 weight: 10
 
 title: This is a NOW page
-subtitle: 
+subtitle: Its purpose is to repy to this familiar question: What are you doing now?
 
 design:
   columns: "1"
