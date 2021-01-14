@@ -13,7 +13,7 @@ headless: true
 weight: 10
 
 title: This is a NOW page
-subtitle: Its purpose is to repy to this familiar question: What are you doing now?
+subtitle: 
 
 design:
   columns: "1"
@@ -27,6 +27,8 @@ design:
   spacing:
     padding: ["20px", "0", "20px", "0"]
 ---
+
+Its purpose is to reply to this familiar question: What are you doing now?
 
 So, NOW, 
 
