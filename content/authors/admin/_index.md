@@ -2,8 +2,8 @@
 title: Thanh-Tuyen Nguyen-Tran
 role: ""
 avatar_filename: avatar.png
-bio: I am passionate about understanding why we do things we do and how to
-  improve ourselves.
+bio: "I am passionate about understanding why we do things we do and how to
+  improve ourselves. "
 interests:
   - Cognitive science
   - Behavioural Economics
