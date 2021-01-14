@@ -12,8 +12,8 @@ headless: true
 # Order that this section appears on the page.
 weight: 10
 
-title: This is a ***NOW*** page
-subtitle: Its purpose is to reply to this pressing question: What are you doing now?
+title: This is a NOW page
+subtitle: 
 
 design:
   columns: "1"
