@@ -10,7 +10,7 @@ active: true
 headless: true
 
 # Order that this section appears on the page.
-weight: 20
+weight: 10
 
 title: What I am doing now
 subtitle: 
@@ -33,8 +33,9 @@ _Updated on January 2021_
 
 ** What I am learning **
 
-- A new module for my Master
+- A new module for my Master in applied neuroscience
 - Python
+- [Maths for machine learning](https://www.coursera.org/learn/linear-algebra-machine-learning)
 
 ** What I am building **
 
@@ -50,4 +51,4 @@ Next would probably be : [Science fictions](https://www.goodreads.com/book/show/
 ---
 
 
-(I found this now page on some cool websites and [this is where the idea comes from]https://nownownow.com/about).
+(I found this now page on some cool websites and [this is where the idea comes from]https://nownownow.com/about)).
