@@ -12,7 +12,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 10
 
-title: This is a "now" page
+title: This is a ***NOW*** page
 subtitle: Its purpose is to reply to this pressing question: What are you doing now?
 
 design:
@@ -28,21 +28,22 @@ design:
     padding: ["20px", "0", "20px", "0"]
 ---
 
+So, NOW, 
 
 _Updated on January 2021_
 
 
-**What I am learning**
+**I am learning**
 
 - Python
 - [Maths for machine learning](https://www.coursera.org/learn/linear-algebra-machine-learning)
 
-**What I am building**
+**I am building**
 
 - This [little piece of digital garden](/explore) seeds by seeds
 - Some [dashboards](https://tuyenshares.github.io/) for my training on data analysis
 
-**What I am reading**
+**I am reading**
 
 - Rereading Man's searching for meaning 
 - [The righteous mind](https://www.goodreads.com/book/show/11324722-the-righteous-mind) from Jonathan Haidt
@@ -53,7 +54,7 @@ Next would probably be :
 - Non-Fiction: [Science fictions](https://www.goodreads.com/book/show/52199285-science-fictions) from Stuart Ritchie
 
 
-**Also,I am trying...**
+**Also, I am trying...**
 
 - To read more about behavioural economics 
 - To rebuild a momemtum for running
