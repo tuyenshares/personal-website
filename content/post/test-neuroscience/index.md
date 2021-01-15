@@ -5,8 +5,7 @@ date: 2021-01-13T03:27:36.774Z
 draft: false
 featured: false
 tags:
-  - Neuroscience
-  - Mental wellness
+  - Mental health
   - Principal
 image:
   filename: featured
