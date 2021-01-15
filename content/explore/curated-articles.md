@@ -26,7 +26,7 @@ content:
   # To remove the toolbar, delete the entire `filter_button` block.
   filter_button:
   - name: Best
-    tag: Favorites
+    tag: Principal
   - name: Our human nature
     tag: Decision-making and behavioural science
   - name: Amazing brain
@@ -41,8 +41,10 @@ content:
     tag: Parenting and education
   - name: Data explorations
     tag: Data
-  - name: Some nerdy stuff
+  - name: Some geeky stuff
     tag: Tech
+  - name: Books
+    tag: Books
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
