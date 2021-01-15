@@ -7,7 +7,7 @@ featured: false
 tags:
   - Neuroscience
   - Mental wellness
-  - Favorites
+  - Principal
 image:
   filename: featured
   focal_point: Smart
