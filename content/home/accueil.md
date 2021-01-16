@@ -39,7 +39,7 @@ It is, at the same time,
 
 Articles will be at various stages of development: you may encounter some notes that are not fully finished yet or haven't even been started to be written in any other form than bullet points. They are seeds that I'm planting with the hope they will bloom one day. Or they might just not grow, and it is ok. 
 
-(Digital) gardens celebrate the power of work, process, patience and timely growth. They are invites for a more creative, contemplative and quiet way of sharing on the Internet. It is what makes the beauty of it to me. 
+(Digital) gardens celebrate the value of work, process, patience and timely growth. They are invites for a more creative, contemplative and quiet way of sharing on the Internet. It is what makes the beauty of it to me. 
 
 I'm very excited to get started! [Here are some seeds I've planted](/explore). I hope you will enjoy the journey with me.
 
