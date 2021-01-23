@@ -63,7 +63,7 @@ Next would probably be :
 
 **Also, I am trying...**
 
-- To rebuild a momemtum for running
+- To rebuild a momemtum for [running](https://www.strava.com/athletes/tuyenmoves)
 - To meditate more than 45 minutes per day
 
 
