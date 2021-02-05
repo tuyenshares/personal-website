@@ -43,6 +43,6 @@ Articles will be at various stages of development: you may encounter some notes 
 
 (Digital) gardens celebrate the power of work, process, patience and timely growth. They are invites for a more creative, contemplative and quiet way of sharing on the Internet. It is what makes the beauty of it to me. 
 
-I'm very excited to get started! [Here are some seeds I've planted](/explore). I hope you will enjoy the journey with me.
+I'm very excited to share this with you! [Here are some seeds I've started to plant](/explore). I hope you will enjoy the journey with me.
 
 Also, I see this garden as a part of a bigger community garden where people is welcome to come, so please feel free to [contact me](#contact) if you have any feedback, question, suggestion... so that we can tend to our gardens together. 
