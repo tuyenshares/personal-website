@@ -34,8 +34,10 @@ It is, at the same time,
 - a journal for my thoughts,
 - a portfolio for my projects, 
 - a notebook for my reading notes, 
+- a repository for paper reviews and independent research, 
+- a learning log for my reflections on my lifelong learning journey,
 - a collection of advices and wisdom I want to keep about living consciously, 
-- a repository for paper reviews and independent research.
+
 
 Articles will be at various stages of development: you may encounter some notes that are not fully finished yet or haven't even been started to be written in any other form than bullet points. They are seeds that I'm planting with the hope they will bloom one day. Or they might just not grow, and it is ok. 
 
