@@ -104,34 +104,34 @@ As each part involves a lot of information, I will be covering each of them in s
 
 References
 
-<sup><sup>O'Connor, D. B., Thayer, J. F., & Vedhara, K. (2020). Stress and health: A review of psychobiological processes. Annual review of psychology, 72.  
+<sup><sup>O'Connor, D. B., Thayer, J. F., & Vedhara, K. (2020). Stress and health: A review of psychobiological processes. Annual review of psychology, 72.</sup></sup>  
 
-Sandi C. (2013). Stress and cognition. Wiley interdisciplinary reviews. Cognitive science, 4(3), 245–261.  
+<sup><sup>Sandi C. (2013). Stress and cognition. Wiley interdisciplinary reviews. Cognitive science, 4(3), 245–261.</sup></sup>  
 
-Selye, H. (1951). The general-adaptation-syndrome. Annual review of medicine, 2(1), 327-342.  
+<sup><sup>Selye, H. (1951). The general-adaptation-syndrome. Annual review of medicine, 2(1), 327-342.</sup></sup>  
 
-McEwen, B. S. (1998). Stress, adaptation, and disease: Allostasis and allostatic load. Annals of the New York academy of sciences, 840(1), 33-44.  
+<sup><sup>McEwen, B. S. (1998). Stress, adaptation, and disease: Allostasis and allostatic load. Annals of the New York academy of sciences, 840(1), 33-44.</sup></sup>  
 
-McEwen, B. S. (2006). Protective and damaging effects of stress mediators: central role of the brain. Dialogues in clinical neuroscience, 8(4), 367.  
+<sup><sup>McEwen, B. S. (2006). Protective and damaging effects of stress mediators: central role of the brain. Dialogues in clinical neuroscience, 8(4), 367.</sup></sup>  
 
-Miller, J. J., Fletcher, K., & Kabat-Zinn, J. (1995). Three-year follow-up and clinical implications of a mindfulness meditation-based stress reduction intervention in the treatment of anxiety disorders. General hospital psychiatry, 17(3), 192-200.  
+<sup><sup>Miller, J. J., Fletcher, K., & Kabat-Zinn, J. (1995). Three-year follow-up and clinical implications of a mindfulness meditation-based stress reduction intervention in the treatment of anxiety disorders. General hospital psychiatry, 17(3), 192-200.</sup></sup>  
 
-Kabat-Zinn, J. (1982). An outpatient program in behavioral medicine for chronic pain patients based on the practice of mindfulness meditation: Theoretical considerations and preliminary results. General hospital psychiatry, 4(1), 33-47. 
+<sup><sup>Kabat-Zinn, J. (1982). An outpatient program in behavioral medicine for chronic pain patients based on the practice of mindfulness meditation: Theoretical considerations and preliminary results. General hospital psychiatry, 4(1), 33-47.</sup></sup> 
 
-Bishop, S. R., Lau, M., Shapiro, S., et al. (2004). Mindfulness: A proposed operational definition. Clinical psychology: Science and practice, 11(3), 230-241.  
+<sup><sup>Bishop, S. R., Lau, M., Shapiro, S., et al. (2004). Mindfulness: A proposed operational definition. Clinical psychology: Science and practice, 11(3), 230-241.</sup></sup>  
 
-Khoury, B., Sharma, M., Rush, S. E., & Fournier, C. (2015). Mindfulness-based stress reduction for healthy individuals: A meta-analysis. Journal of psychosomatic research, 78(6), 519-528.  
+<sup><sup>Khoury, B., Sharma, M., Rush, S. E., & Fournier, C. (2015). Mindfulness-based stress reduction for healthy individuals: A meta-analysis. Journal of psychosomatic research, 78(6), 519-528.</sup></sup>  
 
-Creswell, J. D. (2017). Mindfulness interventions. Annual review of psychology, 68, 491-516.  
+<sup><sup>Creswell, J. D. (2017). Mindfulness interventions. Annual review of psychology, 68, 491-516.</sup></sup>  
 
-Bergomi, C., Tschacher, W., & Kupper, Z. (2013). The assessment of mindfulness with self-report measures: Existing scales and open issues. Mindfulness, 4(3), 191-202.  
+<sup><sup>Bergomi, C., Tschacher, W., & Kupper, Z. (2013). The assessment of mindfulness with self-report measures: Existing scales and open issues. Mindfulness, 4(3), 191-202.</sup></sup>  
 
-Van Dam, N. T., Van Vugt, M. K., Vago, D. R., Schmalzl, et al. (2018). Mind the hype: A critical evaluation and prescriptive agenda for research on mindfulness and meditation. Perspectives on psychological science, 13(1), 36-61.  
+<sup><sup>Van Dam, N. T., Van Vugt, M. K., Vago, D. R., Schmalzl, et al. (2018). Mind the hype: A critical evaluation and prescriptive agenda for research on mindfulness and meditation. Perspectives on psychological science, 13(1), 36-61.</sup></sup>  
 
- Carmody, J., & Baer, R. A. (2008). Relationships between mindfulness practice and levels of mindfulness, medical and psychological symptoms and well-being in a mindfulness-based stress reduction program. Journal of behavioral medicine, 31(1), 23–33.  
+<sup><sup>Carmody, J., & Baer, R. A. (2008). Relationships between mindfulness practice and levels of mindfulness, medical and psychological symptoms and well-being in a mindfulness-based stress reduction program. Journal of behavioral medicine, 31(1), 23–33.</sup></sup>  
 
-Khoury, B., Sharma, M., Rush, S. E., & Fournier, C. (2015). Mindfulness-based stress reduction for healthy individuals: A meta-analysis. Journal of psychosomatic research, 78(6), 519-528.  
+<sup><sup>Khoury, B., Sharma, M., Rush, S. E., & Fournier, C. (2015). Mindfulness-based stress reduction for healthy individuals: A meta-analysis. Journal of psychosomatic research, 78(6), 519-528.</sup></sup>  
 
-Sharma, M., & Rush, S. E. (2014). Mindfulness-based stress reduction as a stress management intervention for healthy individuals: a systematic review. Journal of evidence-based complementary & alternative medicine, 19(4), 271-286.  
+<sup><sup>Sharma, M., & Rush, S. E. (2014). Mindfulness-based stress reduction as a stress management intervention for healthy individuals: a systematic review. Journal of evidence-based complementary & alternative medicine, 19(4), 271-286.</sup></sup>  
 
-Reive, C. (2019). The biological measurements of mindfulness-based stress reduction: a systematic review. Explore, 15(4), 295-307.</sup></sup>
+<sup><sup>Reive, C. (2019). The biological measurements of mindfulness-based stress reduction: a systematic review. Explore, 15(4), 295-307.</sup></sup>
