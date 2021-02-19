@@ -6,10 +6,12 @@ featured: false
 tags:
   - Tech
 image:
-  filename: seeds_germinating.jpg
+  filename: ""
   focal_point: Smart
   preview_only: false
 ---
+![](seeds_germinating.jpg)
+
 A digital garden is a type of content that started to burgeon online and grow since 2020 in the open source community as well as the creative community.  
 
 It is a kind of blog but not really in it essence. Rather than having a neat and polished platform where articles are published and organised by their publication date, digital gardens are using a more flexible form. The idea is to have a so-called “evergreen” place where ideas can flourish at different stages.  
@@ -20,11 +22,7 @@ To me, digital gardens are an invitation for a more creative, contemplative, 
 
 [Maggie Appleton](https://maggieappleton.com/garden-history) who wrote a lot about digital gardens traced back the first mention of the idea to Mark Bernstein in 1998. Adding to the conversation about the navigation problem on the Internet, he used the garden metaphor to argue for better spaces where people could wander freely with the use of the hypertext structure. 
 
-
-
 ### What is a digital-garden style and spirit?
-
-
 
 Digital gardens are basically a collection of ideas that are planted at one point. They may have not been fully formed yet and can continue to grow along the way. They can be refined and updated at any time. But like some seeds that are not able to germinate, they can also stay in their work-in-progress stage indefinitely.  
 
@@ -32,9 +30,7 @@ Based on this idea, this is what you can expect from a digital garden: 
 
 * To be a little bit messy. With the exception of the “Jardin à la française”, gardening implies a little bit of dirt to be able to make things grow. Digital gardens are not neat websites where everything is ordered but a more open way of thinking and sharing our interests that are growing and blooming with time.  
 * The articles are at various stage of development depending on the season - and degree of work. Of course, the idea is to make the garden beautiful but it can take some time... Also, don’t forget that beauty is a notion that will vary from one person to another (even though I am happy to discuss this philosophical question with you 😊) 
-* Gardens are usually open so that everybody can see their beauty. They are of course private gardens. In the digital world, I would make a parallel of these private gardens with the Zettlekasten method. Called “second brain” by some, it is a method that helps to nurture and create new ideas with the support of a knowledge management system based on a network of associative ideas. To me, a digital garden is the public form of a repository that is based on this idea of public learning.  
-
-
+* Gardens are usually open so that everybody can see their beauty. They are of course private gardens. In the digital world, I would make a parallel of these private gardens with [the Zettelkasten method](https://tuyenshares.com/post/the-zettelkasten-method/). Called “second brain” by some, it is a method that helps to nurture and create new ideas with the support of a knowledge management system based on a network of associative ideas. To me, a digital garden is the public form of a repository that is based on this idea of public learning.  
 
 ### What are the common tools used to create a digital?
 
@@ -48,10 +44,9 @@ There are some digital gardens templates using a static website generator but 
 
 Here are some commonly used tools listed [here](https://github.com/MaggieAppleton/digital-gardeners). 
 
-Personally, though I use a static website generator, I've just decided to transform my personal website built with Hugo based on the Academic theme and published via Netlify. 
+Personally, though I use a static website generator, I've just decided to transform my personal website [built with Hugo based on the Academic theme](https://tuyenshares.com/post/how-i-customize-the-hugo-academic-theme-to-create-a-minimal-website/) and published via Netlify. 
 
 But as the [MIT Technology Review](https://www.technologyreview.com/2020/09/03/1007716/digital-gardens-let-you-cultivate-your-own-little-bit-of-the-internet) points out very well, “digital gardens don’t follow rules.” So I feel completely free to use this format as long as it reflects what I thought is the essence of a digital garden :) 
-
 
 (But at the same time, it would be nice if I can figure out how to add bi-directional links on this site. So if you have a good guide for me to experiment, please let me know, I would be happy to check it out.  
 
