@@ -18,7 +18,7 @@ To me, digital gardens are an invitation for a more creative, contemplative, 
 
 ### Where does the idea come from?
 
-Maggie Appleton who wrote a lot about digital gardens traced back the first mention of the idea to Mark Bernstein in 1998. Adding to the conversation about the navigation problem on the Internet, he used the garden metaphor to argue for better spaces where people could wander freely with the use of the hypertext structure. 
+[Maggie Appleton](https://maggieappleton.com/garden-history) who wrote a lot about digital gardens traced back the first mention of the idea to Mark Bernstein in 1998. Adding to the conversation about the navigation problem on the Internet, he used the garden metaphor to argue for better spaces where people could wander freely with the use of the hypertext structure. 
 
 
 
@@ -46,11 +46,11 @@ Digital gardens can be seen as a personal Wikipedia where one article is linked
 
 There are some digital gardens templates using a static website generator but you can also use a public version of a knowledge management system. 
 
-Here are some commonly used tools listed here. 
+Here are some commonly used tools listed [here](https://github.com/MaggieAppleton/digital-gardeners). 
 
 Personally, though I use a static website generator, I've just decided to transform my personal website built with Hugo based on the Academic theme and published via Netlify. 
 
-But as the MIT Technology Review points out very well, “digital gardens don’t follow rules.” So I feel completely free to use this format as long as it reflects what I thought is the essence of a digital garden :) 
+But as the [MIT Technology Review](https://www.technologyreview.com/2020/09/03/1007716/digital-gardens-let-you-cultivate-your-own-little-bit-of-the-internet) points out very well, “digital gardens don’t follow rules.” So I feel completely free to use this format as long as it reflects what I thought is the essence of a digital garden :) 
 
 
 (But at the same time, it would be nice if I can figure out how to add bi-directional links on this site. So if you have a good guide for me to experiment, please let me know, I would be happy to check it out.  
