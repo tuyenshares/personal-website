@@ -12,7 +12,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 20
 
-title: her digital garden 🌱
+title: HER DIGITAL GARDEN 🌱
 subtitle: Writing on what passionates me, having fun and sharing with you pieces of my work while practicing the art of imperfection and learning in public
 
 design:
