@@ -28,7 +28,7 @@ design:
     padding: ["20px", "0", "20px", "0"]
 ---
 
-This is not really a blog, this is an ongoing process of writing and sharing about what I care. This is a [digital garden](#).
+This is not really a blog, this is an ongoing process of writing and sharing about what I care. This is a [digital garden](/what-are-digital-gardens).
 
 It is, at the same time,
 - a journal for my thoughts,
