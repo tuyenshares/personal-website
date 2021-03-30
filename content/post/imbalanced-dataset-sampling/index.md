@@ -1,5 +1,6 @@
 ---
-title: Imbalanced dataset sampling
+title: Some thoughts about generating synthetic data with sampling method in
+  machine learning projects
 date: 2021-03-30T07:22:58.108Z
 draft: false
 featured: false
