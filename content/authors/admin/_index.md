@@ -11,6 +11,11 @@ interests:
   - Mindfulness
   - Education
 social:
+  - display:
+      header: false
+    link: "#"
+    icon_pack: fas
+    icon: enveloppe
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/tuyenshares
