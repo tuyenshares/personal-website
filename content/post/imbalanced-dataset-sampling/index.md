@@ -10,10 +10,9 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-
 For my very first project in machine learning trying to predict stroke, I discovered the common problem of handling imbalanced dataset and I wanted to share with you some thoughts about it. 
 
-### What is an imbalanced dataset? 
+### What is an imbalanced dataset?
 
 Often found in classification problems, imbalanced datasets are datasets that contain a high majority of one class for the target. They are quite common in areas such as medical diagnosis and fraud detection where data about negative cases (not having the disease or any fraud) are more prevalent than the positive cases. 
 
@@ -23,7 +22,7 @@ In my case, I had indeed much more people who have not experienced any stroke th
 
 ![output_8_0](https://user-images.githubusercontent.com/19218787/112954641-28656e00-9171-11eb-9796-5ddb4d790652.png)
 
-### Why is it problem? 
+### Why is it problem?
 
 The challenge with imbalanced datasets is that machine learning techniques will often ignore the minority class in the training phase which will lead to incorrect performance. For example, some classifiers like Logistic Regression and Decision Tree will tend to predict only the majority class when the minority class is treated as noise. 
 
@@ -31,8 +30,7 @@ In my case, metrics before any sampling show an accuracy of 96% for logistic reg
 
 <img width="526" alt="metrics_bef_sampling" src="https://user-images.githubusercontent.com/19218787/112955813-6616c680-9172-11eb-96bc-384a6217e96e.png">
 
-
-### What are the solution? 
+### What are the solution?
 
 One of the popular method is about generating synthetic data with the re sampling technique. 
 
@@ -51,22 +49,18 @@ How does it work?
 Basically, the SMOTE method will generate synthetic data through the near-neighbor method. The algorithm will compute the k-nearest neighbors for one given point so that it can generate all the necessary points for the minority class to reach the same level as the majority class. 
 
 <img width="768" alt="SMOTE_knearest" src="https://user-images.githubusercontent.com/19218787/112955717-4ed7d900-9172-11eb-9611-816c4562fa24.png">
-Source
+[Source](https://www.analyticsvidhya.com/blog/2020/07/10-techniques-to-deal-with-class-imbalance-in-machine-learning/)
+
+
 
 This is the result of the dataset after resampling.
 
 ![output_131_0](https://user-images.githubusercontent.com/19218787/112955914-7a5ac380-9172-11eb-8cb4-96a3444f91ed.png)
 
-
 This method allowed me to do a proper training and generate a correct score. 
 
 ![output_144_0](https://user-images.githubusercontent.com/19218787/112956518-21d7f600-9173-11eb-8632-8e665165f7c9.png)
 
-
-
 Even though I have only used libraries and packages, it was interesting for me to have touched on this technique and see some powerful methods in data science. Being able to generate synthetic data demonstrates its usefulness when there is an intrinsic limitation of the dataset. However, this experience also leads me to wonder about this possibility of generating this kind of 'fake' data. 
 
-### What's the limitation of synthetic data? 
-
-
-
+### What's the limitation of synthetic data?
