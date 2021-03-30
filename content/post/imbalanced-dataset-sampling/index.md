@@ -7,7 +7,7 @@ featured: false
 tags:
   - Data
 image:
-  filename: featured
+  filename: imbalanced-dataset.jpg
   focal_point: Smart
   preview_only: false
 ---
