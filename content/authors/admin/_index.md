@@ -6,7 +6,7 @@ bio: I am passionate about understanding why we do things we do and finding
   evidence-based methods to improve our lives.
 interests:
   - Cognitive science
-  - Behavioural Economics
+  - Behavioural economics
   - Data analytics
   - Mindfulness
   - Education
