@@ -3,11 +3,11 @@ title: Thanh-Tuyen Nguyen-Tran
 role: ""
 avatar_filename: avatar.png
 bio: I am passionate about understanding why we do things we do and finding
-  evidence-based methods to improve ourselves.
+  evidence-based methods to improve our lives.
 interests:
   - Cognitive science
   - Behavioural Economics
-  - Data
+  - Data analytics
   - Mindfulness
   - Education
 social:
@@ -46,10 +46,8 @@ email: ""
 superuser: true
 highlight_name: false
 ---
-A former corporate lawyer turned student of applied neuroscience, I am passionate about research on cognitive science and behavioural economics. My field of interest includes particularly studies about the relationships between these topics and mindfulness practices.  
+A corporate lawyer turned student of applied neuroscience, I am passionate about research on cognitive and behavioural science. My field of interest includes particularly the relationships between these topics and mindfulness practices.  
 
-I am also curious about data analytics and data science and am currently teaching myself Python and R. 
+I am also curious about data analytics and am currently teaching myself Python and R. You can find the repository of my projects [here](https://tuyenshares.github.io/). 
 
-In my spare time, I enjoy being in nature, walking and running and be inspired by art in museums and galleries. I am also conducting mindfulness workshops [here](https://prosoke.com/).
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+In my spare time, I enjoy being in nature, walking and running, as well as in museums and galleries where I get inspired. I am also conducting mindfulness workshops here.
