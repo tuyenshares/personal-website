@@ -1,7 +1,7 @@
 ---
 title: Imperfection and public learning
 date: 2021-02-19T09:07:31.445Z
-draft: false
+draft: true
 featured: false
 image:
   filename: featured
