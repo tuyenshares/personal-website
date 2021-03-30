@@ -69,3 +69,9 @@ This method allowed me to do a proper training and generate a correct score.
 Even though I have only used libraries and packages, it was interesting for me to have touched on this technique and see some powerful methods in data science. Being able to generate synthetic data demonstrates its usefulness when there is an intrinsic limitation of the dataset. However, this experience also leads me to wonder about this possibility of generating this kind of 'fake' data. 
 
 ### What's the limitation of synthetic data?
+
+...
+
+
+
+You can find the full Jupyter notebook in my data analytics repository [here](https://tuyenshares.github.io/).
