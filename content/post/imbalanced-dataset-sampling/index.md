@@ -13,8 +13,6 @@ image:
 ---
 ![](imbalanced-dataset.jpg)
 
-
-
 For my very first project in machine learning trying to predict stroke, I discovered the common problem of handling imbalanced dataset and I wanted to share with you some thoughts about it. 
 
 ### What is an imbalanced dataset?
@@ -55,7 +53,6 @@ Basically, the SMOTE method will generate synthetic data through the near-neighb
 
 <img width="768" alt="SMOTE_knearest" src="https://user-images.githubusercontent.com/19218787/112955717-4ed7d900-9172-11eb-9611-816c4562fa24.png">
 
-
 [Source](https://www.analyticsvidhya.com/blog/2020/07/10-techniques-to-deal-with-class-imbalance-in-machine-learning/)
 
 This is the result of the dataset after resampling.
@@ -72,6 +69,4 @@ Even though I have only used libraries and packages, it was interesting for me t
 
 ...
 
-
-
-You can find the full Jupyter notebook in my data analytics repository [here](https://tuyenshares.github.io/).
+You can find the full version of my [Jupyter notebook for the stroke prediction project](https://github.com/tuyenshares/predicting_stroke) in my data analytics repository [here](https://tuyenshares.github.io/).
