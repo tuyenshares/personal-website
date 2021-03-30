@@ -48,6 +48,6 @@ highlight_name: false
 ---
 A corporate lawyer turned student of applied neuroscience, I am passionate about research on cognitive and behavioural science. My field of interest includes particularly the relationships between these topics and mindfulness practices.  
 
-I am also curious about data analytics and am currently teaching myself Python and R. You can find the repository of my projects [here](https://tuyenshares.github.io/). 
+I am also curious about data analytics and am currently teaching myself Python and R. You can find the repository of my projects [here](https://tuyenshares.github.io/) and some learning reflections about them [here](https://tuyenshares.com/tag/data/). 
 
 In my spare time, I enjoy being in nature, walking and running, as well as in museums and galleries where I get inspired. I am also conducting mindfulness workshops here.
