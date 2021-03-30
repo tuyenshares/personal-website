@@ -15,7 +15,7 @@ social:
       header: false
     link: "#"
     icon_pack: fas
-    icon: enveloppe
+    icon: envelope
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/tuyenshares
