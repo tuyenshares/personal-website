@@ -54,7 +54,7 @@ How does it work?
 Basically, the SMOTE method will generate synthetic data through the near-neighbor method. The algorithm will compute the k-nearest neighbors for one given point so that it can generate all the necessary points for the minority class to reach the same level as the majority class. 
 
 <img width="768" alt="SMOTE_knearest" src="https://user-images.githubusercontent.com/19218787/112955717-4ed7d900-9172-11eb-9611-816c4562fa24.png">
-\[](https://www.analyticsvidhya.com/blog/2020/07/10-techniques-to-deal-with-class-imbalance-in-machine-learning/)
+
 
 [Source](https://www.analyticsvidhya.com/blog/2020/07/10-techniques-to-deal-with-class-imbalance-in-machine-learning/)
 
