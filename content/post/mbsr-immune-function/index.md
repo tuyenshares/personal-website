@@ -5,7 +5,6 @@ draft: false
 featured: false
 tags:
   - Mental health
-  - Principal
 image:
   filename: featured
   focal_point: Smart
