@@ -1,7 +1,7 @@
 ---
 title: The Zettelkasten method
 date: 2021-02-19T08:47:18.449Z
-draft: false
+draft: true
 featured: false
 tags:
   - Productivity
