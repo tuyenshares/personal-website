@@ -1,5 +1,5 @@
 ---
-title: MBSR heart rate variability
+title: MBSR and heart rate variability
 date: 2021-02-19T14:15:00.000Z
 draft: false
 featured: false
