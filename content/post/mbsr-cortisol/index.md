@@ -1,9 +1,11 @@
 ---
-title: MBSR cortisol
+title: Effects of MBSR on cortisol
 date: 2021-02-19T14:10:00.000Z
 draft: false
 featured: false
-tags: []
+tags:
+  - Mental health
+  - Principal
 image:
   filename: featured
   focal_point: Smart
