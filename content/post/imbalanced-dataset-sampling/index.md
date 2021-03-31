@@ -43,8 +43,6 @@ print(classification_report(y_test,y_pred_lr))
 
 With an imbalanced dataset, the accuracy is not a metric that we can take into account because it is based on the larger part of the target. Based on the large majority of 95% of class 0 (people having not experienced any stroke), the machine learning algorithm could simply classify everything in class 0 and still be correct 95 % of the time. In other words, this model is very accurate predicting when a person is not having a stroke, which is obviously what we don't need...
 
-
-
 ### What are the solutions?
 
 One of the popular methods is about generating synthetic data with a re sampling technique. 
@@ -85,12 +83,44 @@ This method allowed me to do a proper training and generate a correct score.
 
 ![output_144_0](https://user-images.githubusercontent.com/19218787/112956518-21d7f600-9173-11eb-8632-8e665165f7c9.png)
 
-Even though I have only used libraries and packages, it was interesting for me to have touched on this technique and see some powerful methods in data science. Being able to generate synthetic data demonstrates its usefulness when there is an intrinsic limitation of the dataset. However, this experience also leads me to wonder about this possibility of generating this kind of 'fake' data. 
+Even though it was only an exercise and I have only used libraries and packages on a small-scale dataset, it was interesting for me to have touched on the tipping point of this technique and see how powerful machine learning algorithms can be.
 
-### What's the limitation of synthetic data?
-
-
+This experience was also an opportunity for me to think again about this possibility of generating this kind of 'fake' data.
 
 
+
+### What are the limitations of synthetic data?
+
+Being able to generate synthetic data demonstrates its usefulness when there is an intrinsic limitation of the dataset such in the cases of imbalanced dataset or when the data do not exist or are not available. The world of data science became quite excited about this opportunity.
+
+Even though amazing, being able to generate data with a few lines of code made me pause and think about the limitations and the real-world implications. 
+
+As these synthetic data derived from a primary data source, the first limitation that comes to my mind is related to the data source from which the synthetic data is created.
+
+What if this source is biased? What about the biases of the scientist who chose the source and created the models? 
+
+These are general questions about bias in data but they appear to have even more impact if these biases are reproducing themselves in the newly generated dataset.
+
+Another question I have had is about the quality of the synthetic data itself. To me, synthetic data can only mimic the real world, it is not the real world. 
+
+What about outliers? In the real world, data is pretty noisy - and this is what actually can differentiate fraudulent data from real-world data when looking for fraud in research papers ... Can these synthetic data reflect this noise? 
+
+In a 2017 study, MIT researchers were able to create a system that can automatically generate synthetic data that gave the same results as real data statistically speaking. In other words, they were able to inject some noise in the generated data.
+
+Now, what about the unexpected? 
+
+
+
+I am very new in the field and these are some preliminary questions I have had when working on my projects. I would be happy to learn more so if you have any comments, please let me know. 
 
 You can find the full version of my [Jupyter notebook for the stroke prediction project](https://github.com/tuyenshares/predicting_stroke) in my data analytics repository [here](https://tuyenshares.github.io/).
+
+
+
+\-- 
+
+References:
+
+\- Chawla, N. V., Bowyer, K. W., Hall, L. O., & Kegelmeyer, W. P. (2002). SMOTE: synthetic minority over-sampling technique. Journal of artificial intelligence research, 16, 321-357.
+
+\- N. Patki, R. Wedge and K. Veeramachaneni, "The Synthetic Data Vault," *2016 IEEE International Conference on Data Science and Advanced Analytics (DSAA)*, Montreal, QC, Canada, 2016, pp. 399-410, doi: 10.1109/DSAA.2016.49.
