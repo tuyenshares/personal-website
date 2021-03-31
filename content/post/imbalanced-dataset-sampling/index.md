@@ -106,6 +106,6 @@ If it is so, I am still wondering about the unexpected. Some of the great innova
 
 Ultimately, I think that being able to manufacture data was an incredible advancement for machine learning but it seems that, as a lot of new groundbreaking technologies, there is a need to be cautious and use them ethically.  
 
-I am very new in the field and these are some preliminary thoughts I have had when working on my very first data science projects. I would be happy to learn more, so if you have any comments, please let me know. 
+I am very new in the field and this is a very first time encounting this issue. I certainly not have the full picture ; these are only some preliminary thoughts I have had when working on my very first data science projects. So if you have any thoughts on it, please feel free to share, I would love to learn more.
 
 You can find the full version of my [Jupyter notebook for the stroke prediction project](https://github.com/tuyenshares/predicting_stroke) in my data analytics repository [here](https://tuyenshares.github.io/).
