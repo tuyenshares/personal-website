@@ -88,15 +88,15 @@ MBSR has been suggested to be effective with stress, depression, anxiety, and im
 
 However, a large part of studies rely exclusively on self-reports and self-rating questionnaires, which in addition to difficulties of assessing mindfulness and the scales themselves (Bergomi, 2013), face some challenges due to their subjectivity and bias (Van Dam, 2018). Therefore, more objective measures and studies using biological markers must be considered.   
 
-This overview will be divided into parts, each of them addressing a different category of biological markers of stress: 
+This overview will be divided into parts, each of them addressing the effect of MBSR on a different category of biological markers of stress: 
 
-\- Part 1 will be focusing on cortisol, the so-called “stress hormone”. 
+\- [Part 1 will be focusing on cortisol, the so-called “stress hormone”.](/post/mbsr-cortisol) 
 
-\- Part 2 will look at cardiovascular responses. 
+\- [Part 2 will look at cardiovascular responses.](/post/mbsr-heart-rate-variability) 
 
-\- Part 3 will explore the cellular markers for immune functions as well as the exciting advancement of research on aging. 
+\- [Part 3 will explore the cellular markers for immune functions as well as the exciting advancement of research on aging.](/post/mbsr-immune-function) 
 
-\- Last but not least, as stress involves the nervous system, part 4 will discuss neuroimaging studies investigating the neurological effects of MBSR. 
+\- Last but not least, as stress involves the nervous system, [part 4 will discuss neuroimaging studies investigating the neurological effects of MBSR.](/post/mbsr-neuroimaging) 
 
 As each part involves a lot of information, I will be covering each of them in separated articles. 
 
