@@ -30,7 +30,7 @@ design:
 
 Its purpose is to reply to this familiar question: What are you doing now? 🙂
 
-_Last updated on February 2021 in Singapore_
+_Last updated on February 2021, in rainy Singapore_
 
 
 So, NOW, 
@@ -59,7 +59,7 @@ So, NOW,
 **Also, I am trying...**
 
 - To rebuild a momemtum for [running](https://www.strava.com/athletes/tuyenmoves)
-- To meditate more than 45 minutes per day
+- To meditate for about 45 minutes per day
 
 
 ---
