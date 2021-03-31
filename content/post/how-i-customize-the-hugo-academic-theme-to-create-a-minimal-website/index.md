@@ -1,7 +1,7 @@
 ---
 title: How I customize the Hugo Academic Theme to create a minimal website
 date: 2021-02-19T08:50:17.196Z
-draft: false
+draft: true
 featured: false
 tags:
   - Tech
