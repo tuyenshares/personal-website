@@ -30,7 +30,7 @@ design:
 
 Its purpose is to reply to this familiar question: What are you doing now? 🙂
 
-_Updated on January 2021 in Singapore_
+_Last updated on February 2021 in Singapore_
 
 
 So, NOW, 
@@ -50,12 +50,7 @@ So, NOW,
 - This [little piece of digital garden](/explore) seeds by seeds
 - Some [dashboards](https://tuyenshares.github.io/) for my training on data analysis
 
-**I am reading...**
-
-- Rereading Man's searching for meaning 
-- [The righteous mind](https://www.goodreads.com/book/show/11324722-the-righteous-mind) from Jonathan Haidt
-
-Next would probably be : 
+**I am reading...** 
 
 - Fiction: A Balzac (to give him another chance...)
 - Non-Fiction: [Science fictions](https://www.goodreads.com/book/show/52199285-science-fictions) from Stuart Ritchie
