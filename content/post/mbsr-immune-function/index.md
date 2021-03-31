@@ -1,5 +1,5 @@
 ---
-title: MBSR immune function
+title: Effects of MBSR on immune function
 date: 2021-02-19T14:24:00.000Z
 draft: false
 featured: false
