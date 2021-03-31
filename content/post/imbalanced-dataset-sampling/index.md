@@ -16,7 +16,7 @@ For my very first project in machine learning trying to predict stroke, I've enc
 
 ### What is an imbalanced dataset?
 
-Often found in classification problems, imbalanced datasets are datasets that contain a high majority of one class for the target. They are quite common in areas such as medical diagnosis and fraud detection where data about negative cases (not having the disease or any fraud) are more prevalent than the positive cases. 
+Often found in classification problems, imbalanced datasets are datasets that contain a **high majority of one class** for the target. They are quite common in areas such as medical diagnosis and fraud detection where data about negative cases (not having the disease or any fraud) are more prevalent than the positive cases. 
 
 To be more concrete, let's say that you have a dataset about patients with a certain illness and you want to predict whether a patient will be diagnosed with this illness or not. In most cases, you will have more data about the part of the population who has not been diagnosed with this illness. 
 
@@ -26,7 +26,7 @@ In my case, I had indeed much more people who have not experienced any stroke th
 
 ### Why is it a problem?
 
-The challenge with imbalanced datasets is that machine learning techniques will often ignore the minority class in the training phase which will lead to incorrect performance. For example, some classifiers like Logistic Regression and Decision Tree will tend to predict only the majority class when the minority class is treated as noise. 
+The challenge with imbalanced datasets is that **machine learning techniques will often ignore the minority class in the training phase** which will lead to incorrect performance. For example, some classifiers like Logistic Regression and Decision Tree will tend to predict only the majority class when the minority class is treated as noise. 
 
 In my case, metrics before any sampling show an accuracy of 96% for logistic regression but we can see that the F1 score for class 1 is equal to 0. 
 
@@ -46,9 +46,9 @@ With an imbalanced dataset, the accuracy is not a metric that we can take into a
 
 One of the popular methods is about generating synthetic data with a re sampling technique. 
 
-Synthetic data are data that are created artificially from a computer program rather than being collected.
+**Synthetic data** are data that are created artificially from a computer program rather than being collected.
 
-With a re sampling technique called over-sampling, data are generated based on the data already collected. In the case of an imbalanced dataset, the generative model will be based on the minority class.
+With a re sampling technique called **over-sampling**, data are generated based on the data already collected. In the case of an imbalanced dataset, the generative model will be based on the minority class.
 
 ![](oversampling.png)
 
@@ -56,7 +56,7 @@ With a re sampling technique called over-sampling, data are generated based on t
 
 In python, [imbalanced-learn](https://imbalanced-learn.org/stable/) is a package that allows this re sampling technique and it is compatible with scikit learn. 
 
-The approach I used was to oversample the minority class with the [SMOTE](https://www.jair.org/index.php/jair/article/view/10302) technique.
+The approach I used was to oversample the minority class with the **[SMOTE](https://www.jair.org/index.php/jair/article/view/10302)** technique.
 
 ```python
 from imblearn.over_sampling import SMOTE
@@ -66,7 +66,7 @@ X_oversampled, y_oversampled = sm.fit_resample(X, y)
 
 How does it work? 
 
-SMOTE stands for Synthetic Minority Oversampling Technique.
+SMOTE stands for *Synthetic Minority Oversampling Technique*.
 
 Basically, this method will generate synthetic data through the near-neighbor method. The algorithm will compute the k-nearest neighbors for one given point so that it can generate all the necessary points for the minority class to reach the same level as the majority class. 
 
@@ -85,8 +85,6 @@ This method allowed me to do a proper training and generate a correct score.
 Even though it was only an exercise and I have only used libraries and packages on a small-scale dataset, it was interesting for me to have touched on the tipping point of this technique and see how powerful machine learning algorithms can be.
 
 This experience was also an opportunity for me to think again about this possibility of generating this kind of 'fake' data.
-
-
 
 ### What are the limitations of synthetic data?
 
