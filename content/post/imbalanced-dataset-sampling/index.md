@@ -13,7 +13,7 @@ image:
 ---
 ![](imbalanced-dataset.jpg)
 
-For my very first project in machine learning trying to predict stroke, I discovered the common problem of handling imbalanced dataset and I wanted to share with you some thoughts about it. 
+For my very first project in machine learning trying to predict stroke, I've encountered the common problem of handling imbalanced dataset and I wanted to share with you some thoughts about it. 
 
 ### What is an imbalanced dataset?
 
@@ -25,21 +25,41 @@ In my case, I had indeed much more people who have not experienced any stroke th
 
 ![output_8_0](https://user-images.githubusercontent.com/19218787/112954641-28656e00-9171-11eb-9796-5ddb4d790652.png)
 
-### Why is it problem?
+### Why is it a problem?
 
 The challenge with imbalanced datasets is that machine learning techniques will often ignore the minority class in the training phase which will lead to incorrect performance. For example, some classifiers like Logistic Regression and Decision Tree will tend to predict only the majority class when the minority class is treated as noise. 
 
-In my case, metrics before any sampling show an accuracy of 96% for logistic regression but we can see that the F1 score for class 1 is equal to 0. (With imbalanced dataset, the accuracy is not a metric that we can take into an account because it is based on the the larger part of the target. In other words, this model is very accurate predincting when a people is not having a stroke, which is obviously what we don't need...)
+In my case, metrics before any sampling show an accuracy of 96% for logistic regression but we can see that the F1 score for class 1 is equal to 0. 
+
+```
+from sklearn.linear_model import LogisticRegression
+lr=LogisticRegression(random_state=42)
+lr.fit(X_train, y_train)
+y_pred_lr=lr.predict(X_test)
+print(classification_report(y_test,y_pred_lr))
+```
 
 <img width="526" alt="metrics_bef_sampling" src="https://user-images.githubusercontent.com/19218787/112955813-6616c680-9172-11eb-96bc-384a6217e96e.png">
 
-### What are the solution?
+With an imbalanced dataset, the accuracy is not a metric that we can take into account because it is based on the larger part of the target. Based on the large majority of 95% of class 0 (people having not experienced any stroke), the machine learning algorithm could simply classify everything in class 0 and still be correct 95 % of the time. In other words, this model is very accurate predicting when a person is not having a stroke, which is obviously what we don't need...
 
-One of the popular method is about generating synthetic data with the re sampling technique. 
 
-In python, imbalanced-learn is a package that allows re sampling techniques, compatible with scikit learn. This offers the possibility of under-sampling (by reducing the majority class) or over-sampling (by increasing the number of instances in the minority class). 
 
-The approach I used was to oversample the minority class with the SMOTE technique as my minority class would be too small for an effective training if I were to use the undersampling technique. 
+### What are the solutions?
+
+One of the popular methods is about generating synthetic data with a re sampling technique. 
+
+Synthetic data are data that are created artificially from a computer program rather than being collected.
+
+With a re sampling technique called over-sampling, data are generated based on the data already collected. In the case of an imbalanced dataset, the generative model will be based on the minority class.
+
+![](oversampling.png)
+
+[Source](https://www.analyticsvidhya.com/blog/2020/07/10-techniques-to-deal-with-class-imbalance-in-machine-learning/)
+
+In python, [imbalanced-learn](https://imbalanced-learn.org/stable/) is a package that allows this re sampling technique and it is compatible with scikit learn. 
+
+The approach I used was to oversample the minority class with the SMOTE technique.
 
 ```python
 from imblearn.over_sampling import SMOTE
@@ -49,7 +69,9 @@ X_oversampled, y_oversampled = sm.fit_resample(X, y)
 
 How does it work? 
 
-Basically, the SMOTE method will generate synthetic data through the near-neighbor method. The algorithm will compute the k-nearest neighbors for one given point so that it can generate all the necessary points for the minority class to reach the same level as the majority class. 
+SMOTE stands for Synthetic Minority Oversampling Technique.
+
+Basically, this method will generate synthetic data through the near-neighbor method. The algorithm will compute the k-nearest neighbors for one given point so that it can generate all the necessary points for the minority class to reach the same level as the majority class. 
 
 <img width="768" alt="SMOTE_knearest" src="https://user-images.githubusercontent.com/19218787/112955717-4ed7d900-9172-11eb-9611-816c4562fa24.png">
 
@@ -67,6 +89,8 @@ Even though I have only used libraries and packages, it was interesting for me t
 
 ### What's the limitation of synthetic data?
 
-...
+
+
+
 
 You can find the full version of my [Jupyter notebook for the stroke prediction project](https://github.com/tuyenshares/predicting_stroke) in my data analytics repository [here](https://tuyenshares.github.io/).
