@@ -1,6 +1,6 @@
 ---
 title: Effects of mindfulness-based stress reduction (MBSR) on biological stress
-  markers (Intro)
+  markers
 date: 2021-02-19T13:46:00.000Z
 draft: false
 featured: false
