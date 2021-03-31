@@ -5,6 +5,7 @@ draft: false
 featured: false
 tags:
   - Data
+  - Principal
 image:
   filename: ""
   focal_point: Smart
