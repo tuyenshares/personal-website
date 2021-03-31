@@ -56,7 +56,7 @@ With a re sampling technique called over-sampling, data are generated based on t
 
 In python, [imbalanced-learn](https://imbalanced-learn.org/stable/) is a package that allows this re sampling technique and it is compatible with scikit learn. 
 
-The approach I used was to oversample the minority class with the SMOTE technique.
+The approach I used was to oversample the minority class with the [SMOTE](https://www.jair.org/index.php/jair/article/view/10302) technique.
 
 ```python
 from imblearn.over_sampling import SMOTE
@@ -102,7 +102,7 @@ Another question I have is about the quality of the synthetic data itself. To me
 
 We can think about outliers for example. In the real world, data is pretty noisy - and this is what actually can differentiate fraudulent data from real-world data when looking for data manipulations in research papers ... Can these synthetic data reflect this noise? 
 
-In a [2016 study](https://ieeexplore.ieee.org/document/7796926), MIT researchers were able to create a system that can automatically generate synthetic data that gave the same results as real data statistically speaking. In other words, they were able to inject some noise into the generated data. 
+In a [2016 study](https://ieeexplore.ieee.org/document/7796926), MIT researchers were able to create a system that can automatically generate [synthetic data that gave the same results as real data](https://news.mit.edu/2017/artificial-data-give-same-results-as-real-data-0303) statistically speaking. In other words, they were able to inject some noise into the generated data. 
 
 If it is so, I am still wondering about the unexpected. Some of the great innovations come from observing an unexpected phenomenon and I wonder whether these synthetic data would be able to model the unpredictable...
 
