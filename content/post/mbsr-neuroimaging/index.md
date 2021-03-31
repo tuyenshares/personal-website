@@ -1,5 +1,5 @@
 ---
-title: MBSR neuroimaging
+title: Effects of MBSR on the brain - looking at some neuroimaging studies
 date: 2021-02-19T14:35:00.000Z
 draft: false
 featured: false
