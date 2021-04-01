@@ -15,8 +15,6 @@ image:
 
 For my very first project in machine learning trying to predict stroke, I've encountered the common problem of handling imbalanced datasets and I wanted to share with you some reflections after having worked on it.
 
-
-
 ### What is an imbalanced dataset?
 
 Often found in classification problems, imbalanced datasets are datasets that contain a **high majority of one class** for the target. They are quite common in areas such as medical diagnosis and fraud detection where data about negative cases (not having the disease or any fraud) are more prevalent than the positive cases. 
@@ -44,8 +42,6 @@ print(classification_report(y_test,y_pred_lr))
 <img width="526" alt="metrics_bef_sampling" src="https://user-images.githubusercontent.com/19218787/112955813-6616c680-9172-11eb-96bc-384a6217e96e.png">
 
 With an imbalanced dataset, the accuracy is not a metric that we can take into account because it is based on the larger part of the target. Determined on the large majority of 95% of class 0 (people having not experienced any stroke), the machine learning algorithm could simply classify everything in class 0 and still be correct 95 % of the time. In other words, this model is very accurate predicting when a person is not having a stroke, which is absolutely not useful...
-
-
 
 ### What are the solutions?
 
@@ -91,8 +87,6 @@ Even though it was only an exercise and I have only used libraries and packages 
 
 This experience was also an opportunity for me to think again about this possibility of generating this kind of 'fake' data.
 
-
-
 ### What are the limitations of synthetic data?
 
 Synthetic data demonstrates its usefulness when there is an intrinsic limitation of the dataset such as in the cases of an imbalanced dataset or when the data do not exist or are not available. Data is needed in every industry but it can be costly and sometimes difficult to access due to availability or privacy (in healthcare for example) or even impossible in case of new technologies (self-driving cars). This is when synthetic data can play an interesting part.
@@ -117,6 +111,4 @@ I am very new in the field and this is my very first time doing machine learning
 
 You can find the full version of my [Jupyter notebook for the stroke prediction project](https://github.com/tuyenshares/predicting_stroke) in my data analytics repository [here](https://tuyenshares.github.io/).
 
-
-
-*This is the original article which has been subsequently shared [here](https://www.linkedin.com/in/nguyentranthanhtuyen/) and [here](https://medium.com/@tuyenshares).*
+*This is the original article which has been subsequently shared [here](https://www.linkedin.com/pulse/some-thoughts-generating-synthetic-data-machine-nguyen-tran/) and [here](https://medium.com/@tuyenshares).*
