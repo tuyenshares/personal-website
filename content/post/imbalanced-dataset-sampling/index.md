@@ -1,5 +1,5 @@
 ---
-title: Some thoughts about generating synthetic data in machine learning projects
+title: Reflective learning on machine learning, imbalanced dataset and synthetic data
 date: 2021-03-30T07:22:58.108Z
 draft: false
 featured: false
