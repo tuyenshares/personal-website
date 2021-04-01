@@ -13,7 +13,9 @@ image:
 ---
 ![](imbalanced-dataset-1-.jpg)
 
-For my very first project in machine learning trying to predict stroke, I've encountered the common problem of handling imbalanced datasets and I wanted to share with you some thoughts about it. 
+For my very first project in machine learning trying to predict stroke, I've encountered the common problem of handling imbalanced datasets and I wanted to share with you some reflections after having worked on it.
+
+
 
 ### What is an imbalanced dataset?
 
@@ -41,21 +43,23 @@ print(classification_report(y_test,y_pred_lr))
 
 <img width="526" alt="metrics_bef_sampling" src="https://user-images.githubusercontent.com/19218787/112955813-6616c680-9172-11eb-96bc-384a6217e96e.png">
 
-With an imbalanced dataset, the accuracy is not a metric that we can take into account because it is based on the larger part of the target. Based on the large majority of 95% of class 0 (people having not experienced any stroke), the machine learning algorithm could simply classify everything in class 0 and still be correct 95 % of the time. In other words, this model is very accurate predicting when a person is not having a stroke, which is obviously what we don't need...
+With an imbalanced dataset, the accuracy is not a metric that we can take into account because it is based on the larger part of the target. Determined on the large majority of 95% of class 0 (people having not experienced any stroke), the machine learning algorithm could simply classify everything in class 0 and still be correct 95 % of the time. In other words, this model is very accurate predicting when a person is not having a stroke, which is absolutely not useful...
+
+
 
 ### What are the solutions?
 
-One of the popular methods is about generating synthetic data with a re sampling technique. 
+One of the popular methods is about generating synthetic data with a resampling technique. 
 
 **Synthetic data** are data that are created artificially from a computer program rather than being collected.
 
-With a re sampling technique called **over-sampling**, data are generated based on the data already collected. In the case of an imbalanced dataset, the generative model will be based on the minority class.
+With a resampling technique called **over-sampling**, data are generated based on the data already collected. In the case of an imbalanced dataset, the generative model will be based on the minority class.
 
 ![](oversampling.png)
 
 [Source](https://www.analyticsvidhya.com/blog/2020/07/10-techniques-to-deal-with-class-imbalance-in-machine-learning/)
 
-In python, [imbalanced-learn](https://imbalanced-learn.org/stable/) is a package that allows this re sampling technique and it is compatible with scikit learn. 
+In python, [imbalanced-learn](https://imbalanced-learn.org/stable/) is a package that allows this resampling technique and it is compatible with scikit learn. 
 
 The approach I used was to oversample the minority class with the **[SMOTE](https://www.jair.org/index.php/jair/article/view/10302)** technique.
 
@@ -69,7 +73,7 @@ How does it work?
 
 SMOTE stands for *Synthetic Minority Oversampling Technique*.
 
-Basically, this method will generate synthetic data through the near-neighbor method. The algorithm will compute the k-nearest neighbors for one given point so that it can generate all the necessary points for the minority class to reach the same level as the majority class. 
+Basically, this method will generate synthetic data through the near-neighbor method. The algorithm will compute the k-nearest neighbors for one given point so that it can produce all the artificial data points for the minority class and reach the same level as the majority class.
 
 <img width="768" alt="SMOTE_knearest" src="https://user-images.githubusercontent.com/19218787/112955717-4ed7d900-9172-11eb-9611-816c4562fa24.png">
 
@@ -79,7 +83,7 @@ This is the result of the dataset after resampling.
 
 ![output_131_0](https://user-images.githubusercontent.com/19218787/112955914-7a5ac380-9172-11eb-8cb4-96a3444f91ed.png)
 
-This method allowed me to do a proper training and generate a correct score. 
+This method allowed me to do an effective training and generate a correct score. 
 
 ![output_144_0](https://user-images.githubusercontent.com/19218787/112956518-21d7f600-9173-11eb-8632-8e665165f7c9.png)
 
@@ -87,9 +91,11 @@ Even though it was only an exercise and I have only used libraries and packages 
 
 This experience was also an opportunity for me to think again about this possibility of generating this kind of 'fake' data.
 
+
+
 ### What are the limitations of synthetic data?
 
-Synthetic data demonstrates its usefulness when there is an intrinsic limitation of the dataset such in the cases of imbalanced dataset or when the data do not exist or are not available. The world of data science became quite excited about this opportunity.
+Synthetic data demonstrates its usefulness when there is an intrinsic limitation of the dataset such as in the cases of an imbalanced dataset or when the data do not exist or are not available. Data is needed in every industry but it can be costly and sometimes difficult to access due to availability or privacy (in healthcare for example) or even impossible in case of new technologies (self-driving cars). This is when synthetic data can play an interesting part.
 
 Even though amazing, being able to generate data with a few lines of code made me pause and think about the limitations and the real-world implications. 
 
@@ -101,12 +107,16 @@ Another question I have is about the quality of the synthetic data itself. To me
 
 We can think about outliers for example. In the real world, data is pretty noisy - and this is what actually can differentiate fraudulent data from real-world data when looking for data manipulations in research papers ... Can these synthetic data reflect this noise? 
 
-In a [2016 study](https://ieeexplore.ieee.org/document/7796926), MIT researchers were able to create a system that can automatically generate [synthetic data that gave the same results as real data](https://news.mit.edu/2017/artificial-data-give-same-results-as-real-data-0303) statistically speaking. In other words, they were able to inject some noise into the generated data. 
+In a [2016 study](https://ieeexplore.ieee.org/document/7796926), MIT researchers were able to create a system that can automatically generate [synthetic data that gave the same results as real data](https://news.mit.edu/2017/artificial-data-give-same-results-as-real-data-0303) statistically speaking. In other words, they were able to inject some noise into the generated data. This was a quite big advancement.
 
-If it is so, I am still wondering about the unexpected. Some of the great innovations come from observing an unexpected phenomenon and I wonder whether these synthetic data would be able to model the unpredictable...
+Nevertheless, I am still wondering about the unexpected. Some of the greatest innovations come from observing an unexpected phenomenon and I wonder whether these synthetic data would be able to model the unpredictable...
 
-Ultimately, I think that being able to manufacture data was an incredible advancement for machine learning but it seems that, as a lot of new groundbreaking technologies, there is a need to be cautious and use them ethically.  
+Ultimately, I think that being able to manufacture data is an incredible advancement for artificial intelligence and machine learning but it seems that, as with a lot of new groundbreaking technologies, there is a need to be cautious and use them mindfully.  
 
-I am very new in the field and this is a very first time encounting this issue. I certainly not have the full picture ; these are only some preliminary thoughts I have had when working on my very first data science projects. So if you have any thoughts on it, please feel free to share, I would love to learn more.
+I am very new in the field and this is my very first time doing machine learning and encountering this issue. I certainly do not have the full picture; these are only some preliminary thoughts I have had when working on this project. So if you have any thoughts on it, please feel free to share, I would love to learn more.
 
 You can find the full version of my [Jupyter notebook for the stroke prediction project](https://github.com/tuyenshares/predicting_stroke) in my data analytics repository [here](https://tuyenshares.github.io/).
+
+
+
+*This is the original article which has been subsequently shared [here](https://www.linkedin.com/in/nguyentranthanhtuyen/) and [here](https://medium.com/@tuyenshares).*
