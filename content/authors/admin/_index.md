@@ -2,8 +2,7 @@
 title: Thanh-Tuyen Nguyen-Tran
 role: ""
 avatar_filename: avatar.png
-bio: I am passionate about understanding why we do things we do and finding
-  evidence-based methods to improve our lives.
+bio: ""
 interests:
   - Data analytics
   - Behavioural science
