@@ -5,11 +5,10 @@ avatar_filename: avatar.png
 bio: I am passionate about understanding why we do things we do and finding
   evidence-based methods to improve our lives.
 interests:
-  - Cognitive science
-  - Behavioural economics
   - Data analytics
+  - Behavioural science
+  - Ethics
   - Mindfulness
-  - Education
 social:
   - display:
       header: false
@@ -48,8 +47,8 @@ email: ""
 superuser: true
 highlight_name: false
 ---
-A corporate lawyer turned student of applied neuroscience, I am passionate about research on cognitive and behavioural science. My field of interest includes particularly the relationships between these topics and mindfulness practices.  
+A corporate lawyer turned data explorer and MSc student in applied neuroscience, I am passionate about research on behavioral science and ethics in artificial intelligence.
 
-I am also curious about data analytics and am currently teaching myself Python and R. You can find the repository of my projects [here](https://tuyenshares.github.io/) and some learning reflections about them [here](https://tuyenshares.com/tag/data/). 
+Currently involved in a full-time programme learning data analytics, I am teaching myself Python, R and machine learning. You can find the repository of my projects [here](https://tuyenshares.github.io/) and some learning reflections about them [here](https://tuyenshares.com/tag/data/). 
 
-In my spare time, I enjoy being in nature, walking and running, as well as in museums and galleries where I get inspired. I am also conducting mindfulness workshops here.
+In my spare time, I enjoy being in nature, walking and running, as well as in museums and galleries where I get inspired. A MBSR trained teacher, I also sometimes conduct mindfulness workshops.
