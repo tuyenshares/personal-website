@@ -7,6 +7,7 @@ interests:
   - Data analytics
   - Behavioural science
   - Ethics
+  - Neuroscience
   - Mindfulness
 social:
   - display:
@@ -46,8 +47,8 @@ email: ""
 superuser: true
 highlight_name: false
 ---
-A corporate lawyer turned data explorer and MSc student in applied neuroscience, I am passionate about research on behavioral science and ethics in artificial intelligence.
+A corporate lawyer turned data explorer and MSc student in applied neuroscience, I am passionate about looking at why we do things we do and advocating for ethics in data.
 
-Currently involved in a full-time programme learning data analytics, I am teaching myself Python, R and machine learning. You can find the repository of my projects [here](https://tuyenshares.github.io/) and some learning reflections about them [here](https://tuyenshares.com/tag/data/). 
+I am currently teaching myself data analytics with Python and R as well as machine learning. You can find the repository of my data projects [here](https://tuyenshares.github.io/) and some learning reflections and miscellaneous thoughts [here](https://tuyenshares.com/tag/data/). 
 
 In my spare time, I enjoy being in nature, walking and running, as well as in museums and galleries where I get inspired. A MBSR trained teacher, I also sometimes conduct mindfulness workshops.
