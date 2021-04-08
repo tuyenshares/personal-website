@@ -9,6 +9,9 @@ interests:
   - Ethics
   - Neuroscience
   - Mindfulness
+  - Wellbeing
+  - Mental health
+  - Self-care
 social:
   - display:
       header: false
