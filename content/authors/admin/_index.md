@@ -8,10 +8,9 @@ interests:
   - Behavioural science
   - Ethics
   - Neuroscience
+  - Mental health
   - Mindfulness
   - Wellbeing
-  - Mental health
-  - Self-care
 social:
   - display:
       header: false
