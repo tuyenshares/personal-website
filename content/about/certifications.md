@@ -23,6 +23,14 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
+- certificate_url: 
+  date_end: ""
+  date_start: "2019-09-01"
+  description: "Grantee for a 9-month full time program in data analytics learning about data management and visualisation with tools like Tableau, Power Bi, Python and R"
+  organization: Singapore 
+  organization_url:
+  title: 'Data Analyst' 
+  url: ""
 - certificate_url: https://www.codecademy.com/profiles/ThanhTuyen/certificates/5cafb2d937090210d7df3652
   date_end: ""
   date_start: "2020-11-01"
