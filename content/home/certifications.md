@@ -10,7 +10,7 @@ headless: true
 weight: 30
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-title: 'Certifications'
+title: 'Certifications and Online Learning'
 subtitle:
 
 # Date format
@@ -27,8 +27,8 @@ item:
   date_end: "2021-04-28"
   date_start: ""
   description: ""
-  organization: Google 
-  organization_url:https://grow.google/certificates/data-analytics/#?modal_active=none
+  organization: Coursera 
+  organization_url: https://www.coursera.org/
   title: 'Google Data Analytics Certificate' 
   url: "https://www.coursera.org/professional-certificates/google-data-analytics"
 - certificate_url: 
