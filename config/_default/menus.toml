@@ -9,19 +9,19 @@
   weight = 10
 
 #[[main]]
-  name = "Start exploring"
-  url = "explore/"
-  weight = 20
+# name = "Start exploring"
+# url = "explore/"
+# weight = 20
 
 #[[main]]
-  name = "About"
-  url = "about/"
-  weight = 30
+# name = "About"
+# url = "about/"
+# weight = 30
 
 #[[main]]
-   name = "Now"
-   url = "now/"
-   weight = 40
+#  name = "Now"
+#  url = "now/"
+#  weight = 40
 
 #[[main]]
 #  name = "Publications"
