@@ -23,9 +23,9 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url:
+- certificate_url: https://www.credly.com/badges/b5418116-6138-4b86-99fe-5ebc0c7b7441/public_url
   date_end: ""
-  date_start: "2006-04-28"
+  date_start: "2021-04-28"
   description: ""
   organization: Coursera 
   organization_url: https://www.coursera.org/
