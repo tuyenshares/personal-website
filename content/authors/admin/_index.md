@@ -55,6 +55,6 @@ A corporate lawyer turned data explorer and MSc student in applied neuroscience,
 
 I am currently teaching myself data analytics with Python and R as well as machine learning. You can find the repository of my data projects [here](https://tuyenshares.github.io/) and some learning reflections and miscellaneous thoughts [here](https://tuyenshares.com). 
 
-Especially concerned about mental health, I am also committed to sharing mindfulness practices and studying the relationship between mindfulness and our brain and behaviours. 
+Particularly concerned about mental health, I am also committed to sharing mindfulness practices and studying the relationship between mindfulness and our brain and behaviours. 
 
 In my spare time, I enjoy being in nature, hiking, and running, as well as in museums and art galleries.
