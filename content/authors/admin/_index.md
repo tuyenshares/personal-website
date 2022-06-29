@@ -1,16 +1,16 @@
 ---
-title: Thanh-Tuyen Nguyen-Tran
+title: Thanh-Tuyen Tran Nguyen
 role: ""
 avatar_filename: avatar.png
 bio: ""
 interests:
-  - Data analytics
-  - Behavioural science
-  - Ethics
   - Neuroscience
+  - Behavioural science
+  - Data analytics
+  - Ethics
   - Mental health
   - Mindfulness
-  - Wellbeing
+  - Well-being
 social:
   - display:
       header: false
@@ -29,14 +29,16 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/nguyentranthanhtuyen/
-organizations: []
+organizations:
+  - name: King's College London
+    url: https://www.kcl.ac.uk/
 education:
   courses:
-    - course: Masters in Neuroscience
+    - course: Masters in Applied Neuroscience
       institution: King's College London
       year: 2022
     - course: Admitted to the Paris Bar
-      institution: Ecole de Formation professionnelle des Barreaux de la cour d'appel
+      institution: Ecole de Formation Professionnelle des Barreaux de la Cour d'Appel
         de Paris
       year: 2010
     - course: Masters in Banking, Financial and Securities Law
@@ -49,10 +51,10 @@ email: ""
 superuser: true
 highlight_name: false
 ---
-A corporate lawyer turned data explorer and MSc student in applied neuroscience, I am passionate about looking at why we do things we do and how we can ethically leverage data to contribute to our wellbeing as a person and as a society.
+A corporate lawyer turned data explorer and MSc student in applied neuroscience, I am passionate about looking at why we do things we do and how we can ethically leverage data to contribute to our well-being as a person and as a society.
 
-I am currently teaching myself data analytics with Python and R as well as machine learning. You can find the repository of my data projects [here](https://tuyenshares.github.io/) and some learning reflections and miscellaneous thoughts [here](https://tuyenshares.com/tag/data/). 
+I am currently teaching myself data analytics with Python and R as well as machine learning. You can find the repository of my data projects [here](https://tuyenshares.github.io/) and some learning reflections and miscellaneous thoughts [here](https://tuyenshares.com). 
 
-A MBSR trained teacher, I care a lot about mental health in organisations and like to dedicate some time to facilitate mindfulness workshops and study the relationship between mindfulness and our brain and behaviours. 
+As a MBSR trained teacher, I care a lot about mental health in organisations and like to dedicate some time to facilitate mindfulness workshops and study the relationship between mindfulness and our brain and behaviours. 
 
-In my spare time, I enjoy being in nature, walking and running, as well as in museums and galleries where I get inspired.
+In my spare time, I enjoy being in nature, hiking, and running, as well as in museums and art galleries.
