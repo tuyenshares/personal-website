@@ -8,17 +8,17 @@
   url = "/"
   weight = 10
 
-[[main]]
+#[[main]]
   name = "Start exploring"
   url = "explore/"
   weight = 20
 
-[[main]]
+#[[main]]
   name = "About"
   url = "about/"
   weight = 30
 
-[[main]]
+#[[main]]
    name = "Now"
    url = "now/"
    weight = 40
