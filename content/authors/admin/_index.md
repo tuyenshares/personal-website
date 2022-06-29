@@ -1,5 +1,5 @@
 ---
-title: Thanh-Tuyen Tran Nguyen
+title: Thanh-Tuyen Tran-Nguyen
 role: ""
 avatar_filename: avatar.png
 bio: ""
